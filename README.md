@@ -11,6 +11,11 @@ Sistema para Reconhecimento de Objetos em Contexto de Campo Aberto para Estudo d
 ## Entradas do Sistema
 * Endereço da pasta: Caminho para a pasta onde estão armazenados os arquivos de vídeo do experimento.
 
+## Metodologia
+<p align="center">
+  <img src="https://github.com/Gus-1003/Antares/blob/main/Fluxograma.png">
+</p>
+
 ## Possibilidades dos videos:
 * Podem ou não conter animais.
 * O campo pode possuir diferentes graus de iluminação.
