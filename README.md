@@ -58,5 +58,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Projeto realizado no Instituto Santos Dumont (ISD) com a colaboração da Escola Agrícola de Jundiaí (EAJ) - Universidade Federal do Rio Grande do Norte (UFRN).
 
 - Autor: G.G. Maciel
-- Colaboradores: T. A. Monteiro, G. O. da S. Filho, A. M. Pacheco, A. Radiske e M. C. Gonzalez
-- Ano: 2024
+- Colaboradores: A. M. Pacheco, M. C. Gonzalez
+- Ano: 2025
